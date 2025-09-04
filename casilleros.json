@@ -1,23 +1,538 @@
 {
-  "meta": { "version": 1, "updatedAt": "2025-09-01" },
+  "meta": {
+    "version": 1,
+    "updatedAt": "2025-09-04"
+  },
   "grupos": [
     {
       "grupo": "PRIMERO",
       "integrantes": [
-        { "id": "PRIMERO-001", "nombre": "JUAN PÉREZ", "numEmpleado": "12345", "sexo": "M" },
-        { "id": "PRIMERO-002", "nombre": "ANA GARCÍA", "numEmpleado": "67890", "sexo": "F" }
+        {
+          "id": "PRIMERO-001",
+          "nombre": "ALATRISTE GUTIÉRREZ FRANCISCO",
+          "numEmpleado": "213673",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-002",
+          "nombre": "ÁVILA GUZMÁN JESÚS",
+          "numEmpleado": "229605",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-003",
+          "nombre": "BARRIGA DIAZ ARACELI",
+          "numEmpleado": "197090",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-004",
+          "nombre": "BOBADILLA HERNANDEZ EFREN",
+          "numEmpleado": "904676",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-005",
+          "nombre": "CASTAÑEDA BERNAL LAURA XOCHITL",
+          "numEmpleado": "976366",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-006",
+          "nombre": "CASTRO CEDILLO CLAUDIA IVETTE",
+          "numEmpleado": "914060",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-007",
+          "nombre": "CASTRO FLORES ANGELICA SOFIA",
+          "numEmpleado": "976389",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-008",
+          "nombre": "CONSTANTNO ANGUIANO NALLELY ALEJANDRA",
+          "numEmpleado": "914064",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-009",
+          "nombre": "CORTEZ PEREZ FABIOLA ALICIA",
+          "numEmpleado": "975521",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-010",
+          "nombre": "ESPINOSA MENDEZ DAVID",
+          "numEmpleado": "917947",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-011",
+          "nombre": "ESTUDILLO BOJORGES CASTO",
+          "numEmpleado": "243656",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-012",
+          "nombre": "GARCIA CRUZ NORMA",
+          "numEmpleado": "834348",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-013",
+          "nombre": "GOMEZ ROSAS ALFONSO ENRIQUE",
+          "numEmpleado": "807811",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-014",
+          "nombre": "HERNANDEZ CASTREJON ROBERTO",
+          "numEmpleado": "1162924",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-015",
+          "nombre": "HERNANDEZ HERNANDEZ MARIA ANAYANCI",
+          "numEmpleado": "232888",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-016",
+          "nombre": "LOERA MARTINEZ AURORA",
+          "numEmpleado": "55508",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-017",
+          "nombre": "LOPEZ LOPEZ JOSE ARTURO",
+          "numEmpleado": "55315",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-018",
+          "nombre": "LUNA MARTINEZ MARGARITA DEYANIRA",
+          "numEmpleado": "197486",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-019",
+          "nombre": "MORALES LUGO FRANCISCO ARTURO",
+          "numEmpleado": "850719",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-020",
+          "nombre": "NUÑEZ TELLEZ ALBERTO",
+          "numEmpleado": "835151",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-021",
+          "nombre": "PALMA ESCALANTE VICTOR JOEL",
+          "numEmpleado": "870010",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-022",
+          "nombre": "PINEDA MARTINEZ ADRIAN",
+          "numEmpleado": "975759",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-023",
+          "nombre": "POLINA NAVARRETE ROCIO ARELY",
+          "numEmpleado": "1162935",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-024",
+          "nombre": "RAMIREZ FLORES ARMANDO",
+          "numEmpleado": "83374",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-025",
+          "nombre": "RAMIREZ TORIBIO LIDIA",
+          "numEmpleado": "824489",
+          "sexo": "F"
+        },
+        {
+          "id": "PRIMERO-026",
+          "nombre": "RIVAS SALDAÑA RAFAEL HUMBERTO",
+          "numEmpleado": "834435",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-027",
+          "nombre": "TREJO HERNANDEZ MIGUEL ANGEL",
+          "numEmpleado": "886150",
+          "sexo": "M"
+        },
+        {
+          "id": "PRIMERO-028",
+          "nombre": "VILLEGAS ROMERO JOSE VALENTE",
+          "numEmpleado": "841101",
+          "sexo": "M"
+        }
       ]
     },
     {
       "grupo": "SEGUNDO",
       "integrantes": [
-        { "id": "SEGUNDO-001", "nombre": "CARLOS LÓPEZ", "numEmpleado": "11223", "sexo": "M" }
+        {
+          "id": "SEGUNDO-001",
+          "nombre": "MARTÍNEZ NAVARRO ISRAEL",
+          "numEmpleado": "911542",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-002",
+          "nombre": "AYALA OLVERA JORGE ALBERTO",
+          "numEmpleado": "821231",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-003",
+          "nombre": "BENICIO MERLIN ANGEL ELEUTERIO",
+          "numEmpleado": "831944",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-004",
+          "nombre": "CORDOVA JIMENEZ LENIN",
+          "numEmpleado": "865238",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-005",
+          "nombre": "GUZMÁN LÓPEZ CARLOS ALBERTO",
+          "numEmpleado": "913357",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-006",
+          "nombre": "GÓMEZ BECERRIL RUBÉN",
+          "numEmpleado": "825112",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-007",
+          "nombre": "LUNA MARTÍNEZ MARÍA MERCEDES",
+          "numEmpleado": "198478",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-008",
+          "nombre": "MARTÍNEZ MOSCO MARISOL",
+          "numEmpleado": "897859",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-009",
+          "nombre": "PÉREZ ESQUIVEL MARIA ELENA",
+          "numEmpleado": "198414",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-010",
+          "nombre": "RUFINO ALFARO LAURA",
+          "numEmpleado": "835388",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-011",
+          "nombre": "VEGA HERNÁNDEZ PATRICIA",
+          "numEmpleado": "834433",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-012",
+          "nombre": "VERA MARTÍNEZ FERNANDO",
+          "numEmpleado": "876993",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-013",
+          "nombre": "VELÁZQUEZ HERMENEGILDO REMEDIOS AGUSTINA",
+          "numEmpleado": "835404",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-014",
+          "nombre": "ÁLVARO BELTRÁN MAURO",
+          "numEmpleado": "805654",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-015",
+          "nombre": "ARREDONDO PÉREZ RUTH",
+          "numEmpleado": "834539",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-016",
+          "nombre": "CAMPOS PÉREZ JOSÉ LUIS",
+          "numEmpleado": "197070",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-017",
+          "nombre": "CASTRO CEDILLO ISMAEL DIONISIO",
+          "numEmpleado": "228732",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-018",
+          "nombre": "BONILLA GÓMEZ MIRIAM",
+          "numEmpleado": "214201",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-019",
+          "nombre": "HERNÁNDEZ GONZALES FABIOLA",
+          "numEmpleado": "877115",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-020",
+          "nombre": "BAUTISTA LÓPEZ REBECA",
+          "numEmpleado": "835342",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-021",
+          "nombre": "GARCÍA CASTAÑEDA ALONSO",
+          "numEmpleado": "901341",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-022",
+          "nombre": "MARTÍNEZ ROMERO MONTSERRAT",
+          "numEmpleado": "1004739",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-023",
+          "nombre": "DOMÍNGUEZ JUÁREZ JORGE",
+          "numEmpleado": "706787",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-024",
+          "nombre": "MÉNDEZ MACÍAS VIRGINIA",
+          "numEmpleado": "918457",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-025",
+          "nombre": "PÉREZ GÓMEZ JOSUE",
+          "numEmpleado": "245000",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-026",
+          "nombre": "TÉLLEZ HERNÁNDEZ ANSELMO",
+          "numEmpleado": "858138",
+          "sexo": "M"
+        },
+        {
+          "id": "SEGUNDO-027",
+          "nombre": "CARMONA PÉREZ LOURDES",
+          "numEmpleado": "910378",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-028",
+          "nombre": "ZAMARRIPA PÉREZ NORMA CLAUDIA",
+          "numEmpleado": "828773",
+          "sexo": "F"
+        },
+        {
+          "id": "SEGUNDO-029",
+          "nombre": "ISLAS TOVAR LUCIA",
+          "numEmpleado": "834436",
+          "sexo": "F"
+        }
       ]
     },
     {
       "grupo": "TERCERO",
       "integrantes": [
-        { "id": "TERCERO-001", "nombre": "ARACELI RAMÍREZ", "numEmpleado": "44556", "sexo": "F" }
+        {
+          "id": "TERCERO-001",
+          "nombre": "BARRERA PEÑALOZA JUAN CARLOS",
+          "numEmpleado": "194940",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-002",
+          "nombre": "CASTREJÓN ARRIAGA ANTONIO",
+          "numEmpleado": "888801",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-003",
+          "nombre": "CASTREJÓN VALDIVIA ELIZABETH",
+          "numEmpleado": "835514",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-004",
+          "nombre": "CUEVAS GRANDE MARÍA COLUMBA",
+          "numEmpleado": "835418",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-005",
+          "nombre": "DIAZ MARQUEZ LIZBETTE GUADALUPE",
+          "numEmpleado": "911512",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-006",
+          "nombre": "ENRÍQUEZ HERNÁNDEZ JAIME",
+          "numEmpleado": "121335",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-007",
+          "nombre": "ESTRADA VARGAS FREDY",
+          "numEmpleado": "228733",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-008",
+          "nombre": "FLORES OTERO NANCI LIZBETH",
+          "numEmpleado": "972530",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-009",
+          "nombre": "FLORES RODRÍGUEZ MARICELA",
+          "numEmpleado": "835482",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-010",
+          "nombre": "FLORES RODRÍGUEZ YEDID MELINA",
+          "numEmpleado": "971477",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-011",
+          "nombre": "FRANCO NIEVES JOSE ISRAEL",
+          "numEmpleado": "831968",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-012",
+          "nombre": "GARCIA DURAN MARIO ALBERTO",
+          "numEmpleado": "1030346",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-013",
+          "nombre": "GONZÁLEZ HUERTAS MARGARITA",
+          "numEmpleado": "202449",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-014",
+          "nombre": "GUTIÉRREZ MORENO GUADALUPE",
+          "numEmpleado": "857035",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-015",
+          "nombre": "LUNA FLORES EDGARDO",
+          "numEmpleado": "910377",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-016",
+          "nombre": "MARTÍNEZ CRUZ AUREA ABIGAIL",
+          "numEmpleado": "1004772",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-017",
+          "nombre": "MATÍAS GUZMÁN ANTONIO",
+          "numEmpleado": "932506",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-018",
+          "nombre": "MEJIA TORRES ABIGAIL POLET",
+          "numEmpleado": "937863",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-019",
+          "nombre": "MENDIOLA DÍAZ PATRICIA",
+          "numEmpleado": "976421",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-020",
+          "nombre": "OROZCO CRUZ MARÍA DE JESÚS",
+          "numEmpleado": "910937",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-021",
+          "nombre": "ORTIZ ISLAS MARCO ANTONIO",
+          "numEmpleado": "805803",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-022",
+          "nombre": "PÉREZ HERNÁNDEZ LUCIANO",
+          "numEmpleado": "202582",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-023",
+          "nombre": "RADILLA SERNA ERIKA MEOSOTI",
+          "numEmpleado": "900474",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-024",
+          "nombre": "RAMIREZ VARGAS JOSE DE JESUS",
+          "numEmpleado": "894807",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-025",
+          "nombre": "REYES MONROY JAIME",
+          "numEmpleado": "985539",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-026",
+          "nombre": "SALAS ROYO ERNESTO",
+          "numEmpleado": "199434",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-027",
+          "nombre": "SIGUENZA ROMERO GUSTAVO DANIEL",
+          "numEmpleado": "1163023",
+          "sexo": "M"
+        },
+        {
+          "id": "TERCERO-028",
+          "nombre": "TRUJILLO JIMÉNEZ ANABEL GUADALUPE",
+          "numEmpleado": "244466",
+          "sexo": "F"
+        },
+        {
+          "id": "TERCERO-029",
+          "nombre": "VARGAS ESPINAL MARIBEL",
+          "numEmpleado": "866712",
+          "sexo": "F"
+        }
       ]
     }
   ]
